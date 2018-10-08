@@ -1,5 +1,5 @@
 # Termux-Sudo
-Lazy Geeks Script For Sudo
+สคริปต์ Geeks ขี้เกียจสำหรับ Sudo
 
 
 #Installation..
@@ -7,7 +7,7 @@ Lazy Geeks Script For Sudo
 1) apt install git
 
 
-2) git clone https://github.com/Bhai4You/Termux-Sudo
+2) git clone https://github.com/kunphiphitb/Termux-Sudo
 
 
 3) cd Termux-Sudo
